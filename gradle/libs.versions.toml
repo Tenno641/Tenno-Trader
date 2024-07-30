@@ -13,7 +13,7 @@ retrofit2 = "2.10.0"
 lifecycleVersion = "2.8.4"
 
 [libraries]
-retrofit2-gson-converter = { group = "com.sqaureup.retrofit2", name = "converter-gson", version.ref = "retrofit2" }
+retrofit2-gson-converter = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit2" }
 retrofit2 = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit2"}
 androidx-viewmodel = { group = "androidx.lifecycle", name = "lifecycle-viewmodel", version.ref = "lifecycleVersion" }
 androidx-livedata = { group = "androidx.lifecycle", name = "lifecycle-livedata", version.ref = "lifecycleVersion" }
